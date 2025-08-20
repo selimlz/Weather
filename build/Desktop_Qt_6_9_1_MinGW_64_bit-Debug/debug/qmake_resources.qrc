@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/weatherApp">
+<file alias="main.qml">C:/INSAT/qt/weatherApp/main.qml</file>
+</qresource>
+</RCC>
